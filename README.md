@@ -82,7 +82,7 @@ The **XGBoost model** excelled in balancing recall (high sensitivity to hit song
 ---
 
 ## Team Members
-- Ethan Liu
+**- Ethan Liu** **(Modeling)**
 - Jewel Ling
 - Camilla Zhao
 - Katherine Wang
